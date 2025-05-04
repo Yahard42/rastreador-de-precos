@@ -2,7 +2,7 @@
 
 Este projeto é uma ferramenta para rastreamento automático de preços de produtos na internet. Ele simula a navegação em sites, coleta informações de preços e exibe esses dados em uma interface web.
 
-Atualmente, o rastreador está configurado para o site **Amazon Canadá (amazon.ca)**, mas pode ser adaptado para outros sites de e-commerce.
+Atualmente, o rastreador está configurado para o site **Amazon US (amazon.com)**, mas pode ser adaptado para outros sites de e-commerce.
 
 ## 🔥 Tecnologias Utilizadas
 
