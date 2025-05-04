@@ -5,7 +5,7 @@ import os
 from amazon import get_product as get_amazon_product
 from requests import post
 
-AMAZON = "https://amazon.ca"
+AMAZON = "https://amazon.com"
 
 URLS = {
     AMAZON: {
