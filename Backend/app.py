@@ -176,7 +176,7 @@ def get_tracked_products():
 @app.route("/update-tracked-products", methods=["POST"])
 def update_tracked_products():
     tracked_products = TrackedProducts.query.all()
-    url = "https://amazon.ca"
+    url = "https://amazon.com"
 
     product_names = []
     for tracked_product in tracked_products:
